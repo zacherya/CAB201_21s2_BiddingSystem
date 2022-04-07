@@ -1,0 +1,16 @@
+G:\My Drive\Uni Files\2021\Semester 2\CAB201\_Assessment Files\A2-ObjectOriented\A2-BiddingSystem\bin\Debug\net5.0\EBuy.exe
+G:\My Drive\Uni Files\2021\Semester 2\CAB201\_Assessment Files\A2-ObjectOriented\A2-BiddingSystem\bin\Debug\net5.0\EBuy.deps.json
+G:\My Drive\Uni Files\2021\Semester 2\CAB201\_Assessment Files\A2-ObjectOriented\A2-BiddingSystem\bin\Debug\net5.0\EBuy.runtimeconfig.json
+G:\My Drive\Uni Files\2021\Semester 2\CAB201\_Assessment Files\A2-ObjectOriented\A2-BiddingSystem\bin\Debug\net5.0\EBuy.runtimeconfig.dev.json
+G:\My Drive\Uni Files\2021\Semester 2\CAB201\_Assessment Files\A2-ObjectOriented\A2-BiddingSystem\bin\Debug\net5.0\EBuy.dll
+G:\My Drive\Uni Files\2021\Semester 2\CAB201\_Assessment Files\A2-ObjectOriented\A2-BiddingSystem\bin\Debug\net5.0\ref\EBuy.dll
+G:\My Drive\Uni Files\2021\Semester 2\CAB201\_Assessment Files\A2-ObjectOriented\A2-BiddingSystem\bin\Debug\net5.0\EBuy.pdb
+G:\My Drive\Uni Files\2021\Semester 2\CAB201\_Assessment Files\A2-ObjectOriented\A2-BiddingSystem\obj\Debug\net5.0\EBuy.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Uni Files\2021\Semester 2\CAB201\_Assessment Files\A2-ObjectOriented\A2-BiddingSystem\obj\Debug\net5.0\EBuy.AssemblyInfoInputs.cache
+G:\My Drive\Uni Files\2021\Semester 2\CAB201\_Assessment Files\A2-ObjectOriented\A2-BiddingSystem\obj\Debug\net5.0\EBuy.AssemblyInfo.cs
+G:\My Drive\Uni Files\2021\Semester 2\CAB201\_Assessment Files\A2-ObjectOriented\A2-BiddingSystem\obj\Debug\net5.0\EBuy.csproj.CoreCompileInputs.cache
+G:\My Drive\Uni Files\2021\Semester 2\CAB201\_Assessment Files\A2-ObjectOriented\A2-BiddingSystem\obj\Debug\net5.0\EBuy.dll
+G:\My Drive\Uni Files\2021\Semester 2\CAB201\_Assessment Files\A2-ObjectOriented\A2-BiddingSystem\obj\Debug\net5.0\ref\EBuy.dll
+G:\My Drive\Uni Files\2021\Semester 2\CAB201\_Assessment Files\A2-ObjectOriented\A2-BiddingSystem\obj\Debug\net5.0\EBuy.pdb
+G:\My Drive\Uni Files\2021\Semester 2\CAB201\_Assessment Files\A2-ObjectOriented\A2-BiddingSystem\obj\Debug\net5.0\EBuy.genruntimeconfig.cache
+G:\My Drive\Uni Files\2021\Semester 2\CAB201\_Assessment Files\A2-ObjectOriented\A2-BiddingSystem\obj\Debug\net5.0\EBuy.csproj.AssemblyReference.cache

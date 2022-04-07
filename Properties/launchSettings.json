@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EBuy": {
+      "commandName": "Project",
+      "commandLineArgs": "/demo"
+    }
+  }
+}

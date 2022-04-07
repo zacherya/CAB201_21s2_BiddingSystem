@@ -1,0 +1,16 @@
+G:\My Drive\Uni Files\2021\Semester 2\CAB201\_Assessment Files\A2-ObjectOriented\A2-BiddingSystem\bin\Debug\net5.0\BiddingSystem.exe
+G:\My Drive\Uni Files\2021\Semester 2\CAB201\_Assessment Files\A2-ObjectOriented\A2-BiddingSystem\bin\Debug\net5.0\BiddingSystem.deps.json
+G:\My Drive\Uni Files\2021\Semester 2\CAB201\_Assessment Files\A2-ObjectOriented\A2-BiddingSystem\bin\Debug\net5.0\BiddingSystem.runtimeconfig.json
+G:\My Drive\Uni Files\2021\Semester 2\CAB201\_Assessment Files\A2-ObjectOriented\A2-BiddingSystem\bin\Debug\net5.0\BiddingSystem.runtimeconfig.dev.json
+G:\My Drive\Uni Files\2021\Semester 2\CAB201\_Assessment Files\A2-ObjectOriented\A2-BiddingSystem\bin\Debug\net5.0\BiddingSystem.dll
+G:\My Drive\Uni Files\2021\Semester 2\CAB201\_Assessment Files\A2-ObjectOriented\A2-BiddingSystem\bin\Debug\net5.0\ref\BiddingSystem.dll
+G:\My Drive\Uni Files\2021\Semester 2\CAB201\_Assessment Files\A2-ObjectOriented\A2-BiddingSystem\bin\Debug\net5.0\BiddingSystem.pdb
+G:\My Drive\Uni Files\2021\Semester 2\CAB201\_Assessment Files\A2-ObjectOriented\A2-BiddingSystem\obj\Debug\net5.0\BiddingSystem.csprojAssemblyReference.cache
+G:\My Drive\Uni Files\2021\Semester 2\CAB201\_Assessment Files\A2-ObjectOriented\A2-BiddingSystem\obj\Debug\net5.0\BiddingSystem.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Uni Files\2021\Semester 2\CAB201\_Assessment Files\A2-ObjectOriented\A2-BiddingSystem\obj\Debug\net5.0\BiddingSystem.AssemblyInfoInputs.cache
+G:\My Drive\Uni Files\2021\Semester 2\CAB201\_Assessment Files\A2-ObjectOriented\A2-BiddingSystem\obj\Debug\net5.0\BiddingSystem.AssemblyInfo.cs
+G:\My Drive\Uni Files\2021\Semester 2\CAB201\_Assessment Files\A2-ObjectOriented\A2-BiddingSystem\obj\Debug\net5.0\BiddingSystem.csproj.CoreCompileInputs.cache
+G:\My Drive\Uni Files\2021\Semester 2\CAB201\_Assessment Files\A2-ObjectOriented\A2-BiddingSystem\obj\Debug\net5.0\BiddingSystem.dll
+G:\My Drive\Uni Files\2021\Semester 2\CAB201\_Assessment Files\A2-ObjectOriented\A2-BiddingSystem\obj\Debug\net5.0\ref\BiddingSystem.dll
+G:\My Drive\Uni Files\2021\Semester 2\CAB201\_Assessment Files\A2-ObjectOriented\A2-BiddingSystem\obj\Debug\net5.0\BiddingSystem.pdb
+G:\My Drive\Uni Files\2021\Semester 2\CAB201\_Assessment Files\A2-ObjectOriented\A2-BiddingSystem\obj\Debug\net5.0\BiddingSystem.genruntimeconfig.cache
