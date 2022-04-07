@@ -1,31 +1,33 @@
-# CAB201_21s2_BiddingSystem
-C# Console app bidding system, developed in Visual Studio 2019 using .Net Core 5
+# QUT CAB201 2021 Semester 2 Object Oriented Project "BiddingSystem"
+> C# Console app bidding system, developed in Visual Studio 2019 using .Net Core 5
 
-# DEMO ENVIRORMENT
+
+
+## Demo Envirorment
 A demo envirorment has been provided which is generated with random names, products and bids upon execution of the program.
 To initiate the demo envirorment the following arguments must be passed:
-    /d - Demo 
+    `/d` - Demo 
         OR
-    /demo - Demo
+    `/demo` - Demo
 To login with any demo accounts you must use any of the names below:
-    "Bob", "Jane", "Mark", "Sally", "Zoe", "Zac", "Fiona", "David"
-followed by "@email.com" as the email and all have the same password "Pass123$".
+    `"Bob", "Jane", "Mark", "Sally", "Zoe", "Zac", "Fiona", "David"`
+followed by `"@email.com"` as the email and all have the same password `"Pass123$"`.
 You do not need to know the last name as it's randomly generated at runtime.
 
-# DATA PROVIDERS
+## Data Providers
 Used to separate functionality, UI from the data management side of the application. 
 Expandable for different future interface e.g Web, WPF
 
-# INTERFACE MANAGEMENT
+## Interface Management
 Used to manipulate the current chosen console interface to achieve functionality through menus.
 A modular interface object system has been used to create room for more potential menus and separation of functionality across menus
 
-# TABLE GENERATOR
+## Table Generator
 Used as an extension to the console interface management.
 It will display ambigous types of data lists by converting them into table strings.
 
-# IDENTITY CONTROLLER
+## Identity Controller
 Used to manage the user authentication and segregate security measures to authenticate users
 
-# MENU CONSTRUCTOR
+## Menu Constructor
 Used as an extension to the Interface object to build menus for the current instance and communicate to and from parent and child classes
